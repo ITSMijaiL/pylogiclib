@@ -7,7 +7,7 @@ version = "0.0.1"
 authors = [
   { name="ITSMijaiL" },
 ]
-description = "A logic simulation library."
+description = "A digital logic simulation library."
 readme = "README.md"
 requires-python = ">=3.11"
 classifiers = [
